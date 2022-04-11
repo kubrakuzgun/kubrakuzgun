@@ -12,9 +12,11 @@
   <img src="https://c.tenor.com/DBqjevyA2o4AAAAd/bongo-cat-codes.gif" width="300"/>
 </div>
 
+
 <div align="center"> 
   
-🔭 Currently working at  [Huawei](https://www.linkedin.com/company/huawei/mycompany/verification/) 
+  
+🔭 Currently working as a Software Test Engineer at  [Huawei](https://www.linkedin.com/company/huawei/mycompany/verification/) 
  
 
   
