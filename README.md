@@ -16,7 +16,7 @@
 <div align="center"> 
   
   
-🔭 Currently working as a Software QA Engineer at  [Hepsiburada](https://upload.wikimedia.org/wikipedia/commons/2/20/Hepsiburada_logo_official.svg) 
+🔭 Currently working as a Software QA Engineer at  [Hepsiburada](https://www.linkedin.com/company/hepsiburada/mycompany/) 
  
 
   
