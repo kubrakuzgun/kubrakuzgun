@@ -16,7 +16,7 @@
 <div align="center"> 
   
   
-🔭 Currently working as a Software Test Engineer at  [Huawei](https://www.linkedin.com/company/huawei/mycompany/verification/) 
+🔭 Currently working as a Software QA Engineer at  [Hepsiburada](https://upload.wikimedia.org/wikipedia/commons/2/20/Hepsiburada_logo_official.svg) 
  
 
   
