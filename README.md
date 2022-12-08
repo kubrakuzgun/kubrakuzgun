@@ -16,7 +16,9 @@
 <div align="center"> 
   
   
-🔭 Currently working as a Software QA Engineer at  [Hepsiburada](https://www.linkedin.com/company/hepsiburada/mycompany/), Engineering Management Master's Student at [Istanbul Technical University](https://www.linkedin.com/school/itu1773/)
+🔭 Currently working as a Software QA Engineer at  [Hepsiburada](https://www.linkedin.com/company/hepsiburada/mycompany/)
+
+👨🏽‍💻Engineering Management Master's Student at [Istanbul Technical University](https://www.linkedin.com/school/itu1773/)
   
 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/kubrakuzgun-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kubra-kuzgun/)
   
